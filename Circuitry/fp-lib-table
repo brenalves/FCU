@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FCULib")(type "KiCad")(uri "${KIPRJMOD}/Libraries/FCULib.pretty")(options "")(descr ""))
+)
