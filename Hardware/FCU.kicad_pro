@@ -613,6 +613,10 @@
     [
       "f6ee1712-623f-481b-a021-3080378338dc",
       "Root"
+    ],
+    [
+      "8abfa846-c73c-46a5-b4ec-bc41f97f15e7",
+      "PowerSupply"
     ]
   ],
   "text_variables": {}
